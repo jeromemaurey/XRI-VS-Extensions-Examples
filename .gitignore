@@ -44,3 +44,6 @@ sysinfo.txt
 .DS_Store
 .npmrc
 .DS_Store
+
+# User settings
+*/UserSettings
