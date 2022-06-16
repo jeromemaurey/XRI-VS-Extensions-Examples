@@ -162,6 +162,16 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
+    "com.unity.visualscripting": {
+      "version": "1.7.8",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ugui": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.xr.arsubsystems": {
       "version": "4.2.2",
       "depth": 0,
@@ -227,6 +237,16 @@
         "com.unity.xr.management": "4.2.0"
       },
       "url": "https://packages.unity.com"
+    },
+    "visualscripting.extensions.xrit": {
+      "version": "https://github.com/jeromemaurey/VisualScripring.Extensions.XRIT.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.visualscripting": "1.7.8",
+        "com.unity.xr.interaction.toolkit": "2.0.2"
+      },
+      "hash": "5151b6f594f6fe5929616dd69738eb08f2a16ff0"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
