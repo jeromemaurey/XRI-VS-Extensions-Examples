@@ -7,7 +7,7 @@ This fork of the XR Interaction Toolkit (XRIT) Examples is part of the [Road to 
 <br>
 
 ## Warning!
-> This is an **experimental** project is developed by **me**, not Unity.
+> This is an **experimental** project developed by **me**, not Unity.
 
 <br>
 
