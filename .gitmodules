@@ -1,0 +1,3 @@
+[submodule "VR/Packages/VisualScripring.Extensions.XRIT"]
+	path = VR/Packages/VisualScripring.Extensions.XRIT
+	url = git@github.com:jeromemaurey/VisualScripring.Extensions.XRIT.git
